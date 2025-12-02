@@ -49,12 +49,13 @@ The project uses three core tables:
 - Practice writing analytical SQL in real datasets
 
 ## Skills Demonstrated
-- Intermediate and advanced SQL queries
-- Window functions (RANK, LAG, LEAD)
-- Date manipulation & filtering
-- Aggregations and statistical calculations
-- CTEs for modularized query logic
-- Data profiling and data validation
+- Intermediate SQL queries
+- SQL Joins, GROUP BY with aggregations (SUM, AVG, COUNT, MAX, MIN) , Date extraction and transformation (EXTRACT(YEAR), EXTRACT(MONTH))
+- Complex filtering with WHERE and logical conditions
+- CASE statements for categorization
+- Structured query development for business insights
+- Working with retail analytics metrics
+- Problem-solving and analytical thinking across 40 real-world questions
 
 ## Sample Insights
 - Stores with larger square footage show consistent sales stability
