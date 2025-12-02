@@ -89,7 +89,7 @@ git clone https://github.com/Joydeep211/walmart-sales-sql-project.git
 ## Tool Used
 
 - PostgreSQL
-- pgAdmin 4 (or any SQL client)
+- pgAdmin 4 
 
 
 ## Future Enhancements
