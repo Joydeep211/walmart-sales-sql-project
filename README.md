@@ -3,13 +3,13 @@
 A comprehensive SQL-based analytical project focused on exploring store performance, weekly sales behavior, markdown effects, fuel price trends, and external feature correlations using the Walmart dataset.
 
 ## Overview
-This project demonstrates structured problem-solving using SQL across 40 curated questions. It covers intermediate to advanced query design, including joins, window functions, aggregations, date operations, and performance-oriented thinking.
+This project demonstrates structured problem-solving using SQL by answering 40 real-world business questions based on Walmart’s retail dataset. It showcases solid intermediate SQL competency, focusing on joins, aggregations, date operations, CASE classifications, and analytical query design.
 
 The aim of the project is to show hands-on skill in:
 - Writing clean and optimized SQL queries
-- Understanding retail data dynamics
-- Interpreting business metrics
-- Applying analytical reasoning to real-world datasets
+- Understanding retail data dynamics,relationships across multiple tables (stores, features, train)
+- Writing clean, efficient, and logically structured SQL queries
+- Applying analytical reasoning to derive insights from real data
 
 ## Dataset Description
 The project uses three core tables:
